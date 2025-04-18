@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background-image: url('images/de_helden3.jpg');
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+#layout{
+  width: 800px;
+  margin: auto;
+  background-color: antiquewhite;
+  padding: 0px;
+  padding-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+nav{
+  background-color: rgb(252, 185, 77);
+  padding: 15px;
+  padding-bottom: 3px;
+  border-bottom: 5px solid rgb(255, 149, 0);
+  margin-bottom: 20px;
+}
+#appeltjes{
+  background-color: rgb(243, 103, 4);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+table,
+td {
+  border-collapse: collapse;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    opacity: 1;
+}
+a{
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 5px;
+}
+.actief{
+  color: rgb(4, 68, 14);
+  background-color: rgb(255, 149, 0);
+}
+.nietactief{
+  color: rgb(142, 10, 26);
+}
+h1{
+  text-align: center;
+}
+form{
+  margin: 10px;
+}
