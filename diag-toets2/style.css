@@ -1,0 +1,20 @@
+#bar{
+  background-color: rgb(41, 151, 41);
+  color: white;
+  font-size: 24px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 80%;
+
+}
+#kerstmisboom{
+  display: flex;
+  justify-content: center;
+  float: left;
+  width: 20%;
+  background-color: yellow;
+  height: 70px;
+  padding: 10px;
+  margin: 20px;
+}
