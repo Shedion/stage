@@ -8,13 +8,9 @@ Welkom op mijn GitHub-repository voor mijn stageproject als onderdeel van mijn o
 
 Deze repository bevat onder andere:
 
-- Diag-toets2()
-- Diag-toets4()
-- Project-Speshi(Een eigen project)
-- Stageopdrachten en verslagen  
-- Projectcode (front-end en/of back-end)  
-- Documentatie en toelichtingen  
-- Testresultaten of demo's (indien van toepassing)
+- Diag-toets2 (Stylesheet styling)
+- Diag-toets4 (Database koppeling)
+- Project-Speshi (Eigen project website)
 
 ---
 
