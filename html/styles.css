@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+  }
+
+  h1 {
+    color: yellow;
+  }
+
+  h2 {
+    color:green;
+  }
+
+h3{
+    color:pink;
+}
+
+  p {
+    color: blueviolet;
+  }
+
+  .blue{
+    color:blue;
+}
+
+  .gray{
+    color:gray;
+  }
